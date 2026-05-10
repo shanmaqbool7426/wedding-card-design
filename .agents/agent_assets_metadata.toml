@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "r2wZJu0hN5za63OkE1Vvm"
+uri = "file://assets/images/icon.png"
+type = "image"
+title = "wedding app icon"
+
+[[generated]]
+id = "K68qo-ks8uBN_RBOqID0L"
+uri = "file://assets/images/template_hindu.png"
+type = "image"
+title = "hindu wedding template"
+
+[[generated]]
+id = "EsxyRraottvrpIaOu4jUQ"
+uri = "file://assets/images/template_modern.png"
+type = "image"
+title = "modern wedding template"
+
+[[generated]]
+id = "-xycIRWrdZqQNHpFcchq-"
+uri = "file://assets/images/template_destination.png"
+type = "image"
+title = "destination wedding template"
+
+[[generated]]
+id = "Iu2cQqPGW67IM6fmG0Ycr"
+uri = "file://assets/images/splash.png"
+type = "image"
+title = "wedding app splash"
+
+[[generated]]
+id = "w5k7BfTITQkuqmh1rmM_Z"
+uri = "file://assets/images/template_muslim.png"
+type = "image"
+title = "muslim wedding template"

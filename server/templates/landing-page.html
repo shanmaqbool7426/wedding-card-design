@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WedCraft API</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #1C1209 0%, #2D1E0F 50%, #1C1209 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #FAF7F0;
+    }
+    .container { text-align: center; padding: 40px; max-width: 600px; }
+    .logo {
+      width: 80px; height: 80px; border-radius: 20px;
+      background: linear-gradient(135deg, #D4A84C, #B8860B);
+      margin: 0 auto 24px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 36px;
+    }
+    h1 { font-size: 42px; font-weight: 800; margin-bottom: 8px; letter-spacing: -1px; }
+    .gold { color: #C9A84C; }
+    p { color: rgba(250,247,240,0.7); font-size: 16px; line-height: 1.6; margin-bottom: 32px; }
+    .endpoints { background: rgba(201,168,76,0.08); border: 1px solid rgba(201,168,76,0.2); border-radius: 16px; padding: 24px; text-align: left; }
+    .endpoint { margin-bottom: 12px; padding: 10px 14px; background: rgba(250,247,240,0.05); border-radius: 10px; }
+    .method { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 700; margin-right: 10px; }
+    .get { background: #1B6B4A; }
+    .post { background: #6B3FA0; }
+    .path { color: #C9A84C; font-family: monospace; font-size: 14px; }
+    .desc { color: rgba(250,247,240,0.6); font-size: 12px; margin-top: 4px; }
+    .badge { display: inline-block; background: rgba(201,168,76,0.2); border: 1px solid rgba(201,168,76,0.3); border-radius: 20px; padding: 4px 14px; font-size: 13px; color: #C9A84C; margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">💍</div>
+    <div class="badge">✨ API v1.0.0</div>
+    <h1><span class="gold">Wed</span>Craft</h1>
+    <p>Premium Wedding Invitation Maker — Backend API<br/>Node.js + Express powering your dream invitations</p>
+    <div class="endpoints">
+      <div class="endpoint">
+        <span class="method get">GET</span><span class="path">/health</span>
+        <div class="desc">API health check</div>
+      </div>
+      <div class="endpoint">
+        <span class="method get">GET</span><span class="path">/api/templates</span>
+        <div class="desc">Fetch all wedding templates</div>
+      </div>
+      <div class="endpoint">
+        <span class="method post">POST</span><span class="path">/api/ai/generate</span>
+        <div class="desc">AI invitation generation</div>
+      </div>
+      <div class="endpoint">
+        <span class="method get">GET</span><span class="path">/api/designs/:userId</span>
+        <div class="desc">Get user's saved designs</div>
+      </div>
+      <div class="endpoint">
+        <span class="method post">POST</span><span class="path">/api/designs</span>
+        <div class="desc">Save a design</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

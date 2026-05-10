@@ -1,0 +1,239 @@
+Build a premium Wedding Invitation Maker mobile app using React Native Expo + TypeScript.
+
+The app should be modern, luxurious, elegant, fast, and much more advanced than existing wedding invitation apps on Play Store and App Store.
+
+APP STYLE:
+- Premium luxury UI
+- Elegant wedding aesthetics
+- Royal Indian wedding theme support
+- Modern minimalist western wedding themes
+- Gold, white, cream, blush pink, royal purple gradients
+- Glassmorphism + soft shadows
+- Smooth animations
+- Luxury typography
+- Cinematic transitions
+- Instagram-quality design
+
+TARGET:
+Create a viral wedding card maker platform with AI-powered invitation generation, video invitations, templates marketplace, and social sharing.
+
+====================================
+MAIN FEATURES
+====================================
+
+1. AUTHENTICATION
+- Email login
+- Google login
+- Apple login
+- Guest mode
+- OTP login
+
+2. HOME SCREEN
+- Trending wedding templates
+- AI-generated invitation section
+- Categories:
+  - Hindu Wedding
+  - Muslim Wedding
+  - Christian Wedding
+  - Sikh Wedding
+  - Tamil Wedding
+  - Telugu Wedding
+  - Bengali Wedding
+  - Royal Wedding
+  - Minimal Wedding
+  - Destination Wedding
+  - Engagement
+  - Mehendi
+  - Haldi
+  - Reception
+  - Save The Date
+  - Baby Shower
+  - Birthday
+  - Anniversary
+
+3. AI INVITATION GENERATOR
+- Generate invitation from text prompt
+- AI wedding theme suggestions
+- AI color palette generator
+- AI typography suggestions
+- AI poem/wedding quotes generator
+- AI event timeline creator
+- AI guest name auto-fill
+- AI invitation style generator
+
+4. CARD EDITOR
+Advanced drag-and-drop editor:
+- Add text
+- Custom fonts
+- Add stickers
+- Upload images
+- Add bride/groom photos
+- Add music
+- Add animations
+- Add GIFs
+- Add videos
+- Add QR code
+- Add maps/location
+- Add countdown timer
+- Add voice invitation
+- Layer system
+- Filters/effects
+- Shadows/glow
+- Blend modes
+- Gradient editor
+
+5. VIDEO INVITATIONS
+- Animated invitation videos
+- Slideshow maker
+- Cinematic wedding intros
+- Music synchronization
+- Motion graphics
+- Reel/TikTok export
+- HD/4K export
+
+6. TEMPLATE MARKETPLACE
+- Premium templates
+- Creator marketplace
+- Sell templates
+- Download templates
+- Seasonal themes
+- Festival wedding packs
+
+7. SHARE & EXPORT
+- PDF export
+- PNG/JPG export
+- Video export
+- Instagram story size
+- WhatsApp sharing
+- Direct invite links
+- QR invite links
+
+8. RSVP SYSTEM
+- Guest management
+- RSVP tracking
+- Meal preferences
+- Family groups
+- Attendance analytics
+- Auto reminders
+
+9. SOCIAL FEATURES
+- Community feed
+- Public templates
+- Likes/comments
+- Follow creators
+- Wedding inspiration feed
+
+10. PREMIUM FEATURES
+- Watermark removal
+- Unlimited exports
+- Premium fonts
+- Exclusive templates
+- AI premium styles
+- Cloud backup
+
+====================================
+UI/UX REQUIREMENTS
+====================================
+
+- Ultra smooth animations
+- Luxury onboarding flow
+- Elegant card transitions
+- Floating action buttons
+- Parallax scrolling
+- Gesture-based editing
+- Realtime preview
+- Beautiful typography
+- Rich gradients
+- Modern iconography
+- Dark/light mode
+- Responsive for Android & iOS
+
+====================================
+TECH STACK
+====================================
+
+Frontend:
+- React Native
+- Expo SDK latest
+- TypeScript
+- React Navigation
+- React Native Reanimated
+- React Native Gesture Handler
+- React Native Skia
+- Expo AV
+- Expo Image
+- Lottie Animations
+- Zustand state management
+
+EDITOR & GRAPHICS:
+- React Native SVG
+- Skia Canvas
+- GL effects
+- Draggable layers
+- Gesture editor
+
+AI FEATURES:
+- OpenAI API
+- Stable Diffusion API
+- Gemini API
+- AI text generation
+- AI image generation
+
+BACKEND:
+- Node.js
+- NestJS
+- Firebase
+- PostgreSQL
+- Redis
+
+STORAGE:
+- Firebase Storage
+- AWS S3
+
+AUTH:
+- Firebase Auth
+
+PAYMENTS:
+- Stripe
+- RevenueCat
+
+VIDEO PROCESSING:
+- FFmpeg
+- Remotion
+- Video rendering pipeline
+
+NOTIFICATIONS:
+- Firebase Cloud Messaging
+
+ANALYTICS:
+- Mixpanel
+- Firebase Analytics
+
+====================================
+PERFORMANCE REQUIREMENTS
+====================================
+
+- Fast startup
+- 60 FPS animations
+- Optimized image rendering
+- Lazy loading
+- Offline draft saving
+- Realtime autosave
+- Cloud sync
+
+====================================
+GENERATE:
+====================================
+
+- Full folder structure
+- Complete mobile UI screens
+- Reusable components
+- Modern scalable architecture
+- API structure
+- Database schema
+- Premium animations
+- Production-ready code
+- Beautiful wedding template designs
+- AI-powered invitation workflow
+
+The app should feel like a billion-dollar luxury wedding platform similar to Canva + Pinterest + WeddingWire combined.
